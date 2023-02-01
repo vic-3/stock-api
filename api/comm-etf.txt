@@ -1,0 +1,1 @@
+[{"change_p":1.77,"close":14.95,"code":"PDBC"},{"change_p":1.107,"close":24.65,"code":"FTGC"},{"change_p":1.511,"close":28.22,"code":"COMT"},{"change_p":1.193,"close":56.42,"code":"USCI"},{"change_p":-0.563,"close":30,"code":"FAAR"},{"change_p":1.52,"close":34.74,"code":"BCD"},{"change_p":1.038,"close":22.38,"code":"COMB"},{"change_p":1.121,"close":54.14,"code":"CMDY"}]
